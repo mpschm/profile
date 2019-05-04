@@ -10,7 +10,8 @@ body {
 
 .container {
   text-align: center;
-  margin: 70px 180px;
+  margin: 50px auto;
+  max-width: 1000px;
 }
 
 @media (max-width: 960px) {
